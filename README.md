@@ -10,7 +10,7 @@
 4. We also have monthly reporting system to get the basic output of market by this website.
 
 ## Live Website Link:
-https://tubular-pothos-2724da.netlify.app/
+https://product-analysis-2022.netlify.app
 ## Private Ripo Link:
 https://github.com/programming-hero-web-course-4/product-analysis-website-saad-raffi
 
